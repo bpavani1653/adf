@@ -1,0 +1,9 @@
+{
+	"name": "adf3-gitconfigs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9837a04-78f9-40c9-a4b8-31fee053650b",
+		"tenantId": "1f93cc37-f725-4238-8c88-9d56c02b95b4"
+	}
+}
